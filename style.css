@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+sayo{
+	color: blue;
+	font-size:24px;
+	text-align:center;
+	font:"Arial Black", Gadget, sans-serif;
+}
+natsu{
+	color:#F3F;
+	font-size:16px;
+	text-align:center;
+	font:Arial, Helvetica, sans-serif;
+}
+yur{
+	alignment-adjust:central;
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#63C;
+	background-color:#9F6;
+	text-align:center;
+}
+mc{
+	text-align:center;
+}
+	
